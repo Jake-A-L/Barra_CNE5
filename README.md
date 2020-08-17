@@ -1,5 +1,5 @@
 # Barra_CNE5
-Provide risk forecasts by Barra China Equity Model
+Barra China Equity Model Jake's version
 
 ## Code Usage
 
